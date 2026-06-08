@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/buscar-musica.js": {
+      "maxDuration": 30
+    }
+  }
+}
